@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string name="create">Create Account</string>
+    <string name="hold">Place Hold</string>
+    <string name="manage">Manage System</string>
+    <string name="createAcc">Enter a Username and Password to create account!</string>
+    <string name="userError">OOPS! Please enter a username and password!</string>
+    <string name="userDouble">OOPS! Username is already taken! Please enter a new username!</string>
+    <string name="accountSuccess">Account Created!</string>
+    <string name="mainMenu">Back to Main Menu</string>
+    <string name="user">ERROR: Unable to create account.</string>
+    <string name="fail">FAIL</string>
+    <string name="pickGenre">Pick a Book Genre!</string>
+    <string name="pickBook">Pick a Book!</string>
+    <string name="login">Enter username and password to login!</string>
+    <string name="log">Login</string>
+    <string name="cont">Okay</string>
+    <string name="confirm">Please confirm the information below!</string>
+    <string name="con">Looks Good!</string>
+    <string name="conBtn">Looks Good!</string>
+    <string name="addBook">Please enter the book information below!</string>
+</resources>
